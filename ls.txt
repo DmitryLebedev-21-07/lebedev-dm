@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 3 vboxuser vboxuser 4,0K фев 11 20:26 ./
+drwxr-xr-x 3 vboxuser vboxuser 4,0K фев 11 19:53 ../
+-rw-rw-r-- 1 vboxuser vboxuser  608 фев 11 19:58 config.txt
+-rw-rw-r-- 1 vboxuser vboxuser  156 фев 11 19:54 first.txt
+drwxrwxr-x 8 vboxuser vboxuser 4,0K фев 11 20:25 .git/
+-rw-rw-r-- 1 vboxuser vboxuser    0 фев 11 20:26 ls.txt
+-rw-rw-r-- 1 vboxuser vboxuser   12 фев 11 19:53 README.md
+-rw-rw-r-- 1 vboxuser vboxuser  199 фев 11 19:54 status.txt
